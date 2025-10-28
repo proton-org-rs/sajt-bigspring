@@ -1,2 +1,36 @@
-// This file is empty within the template
-// You can use it to override CSS from within your project
+.bg-light {
+  background-color: #E8E8E8 !important;
+}
+
+.banner h1 {
+  font-size: 3rem; /* povećaj po želji, npr. 24px */
+  font-weight: 700; /* ako želiš malo jači tekst */
+}
+
+.banner p {
+  font-size: 1.5rem; /* povećaj po želji, npr. 24px */
+  font-weight: 500; /* ako želiš malo jači tekst */
+}
+
+.section p {
+  font-size: 1.2rem; /* povećaj po želji, npr. 24px */
+  font-weight: 500; /* ako želiš malo jači tekst */
+}
+
+img[src*="Megaphone.png"] {
+  width: 400px;
+  height: auto;
+}
+
+.banner {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 40vh; /* povećaj po potrebi */
+}
+
+.banner-home {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
