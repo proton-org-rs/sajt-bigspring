@@ -8,8 +8,8 @@ layout: "contact"
 ---
 
 
-#### Why you should contact us!
-Pitanja?
+#### Pitanja?
+Kontaktirajte nas!
 
 * **Phone: +88 125 256 452** 
 * **Mail: info@bigspring.com**

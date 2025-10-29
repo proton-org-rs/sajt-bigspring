@@ -1,10 +1,10 @@
 ---
 ####################### Banner #########################
 banner:
-  #title : "STUDENTSKA ORGANIZACIJA PROTON"
+  title : "STUDENTSKA ORGANIZACIJA PROTON"
   #image : "images/Backjam.png"
-  #content : "Elektrotehnički fakultet u Beogradu"
-  background: "images/Banner.jpg"
+  content : "Elektrotehnički fakultet u Beogradu"
+  #background: "images/Banner.jpg"
   #button:
     #enable : true
     #label : "Učlani se"
