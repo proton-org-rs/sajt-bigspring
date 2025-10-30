@@ -57,7 +57,7 @@ Verujemo da je naša odgovornost da sprečimo takve scenarije. Naša organizacij
 
 <div style="text-align: center; width: 220px;">
   <img src="/images/team/despot.jpg" alt="Despot Maksimović" style="border-radius: 10%; width: 180px; height: 180px; border: solid #381651 4px; object-fit: cover;">
-  <h3>Ime Prezime</h3>
+  <h3>Despot Maksimović</h3>
   <p><em>Predsednik Upravnog odbora</em></p>
 </div>
 
