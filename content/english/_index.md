@@ -21,9 +21,9 @@ feature:
       content : "kroz predavanja, mentorstva i projekte"
 
   # feature item loop
-    - name : "Unapredjenje"
+    - name : "Unapređenje"
       icon : "fas fa-arrow-up"
-      content : "načina rada i uslova na fakultetu"
+      content : "studentskog života na fakultetu"
 
     # feature item loop
     - name : "Putovanja"
@@ -69,7 +69,10 @@ sponsors:
   enable: true
   title: "Naši partneri"
   logos:
-    - "images/etflogo.jfif"
-    - "images/palatalogo.jpg"
-    - "images/logomikroprinc.jfif"
+    - image: "images/etflogo.jfif"
+      url: "https://www.etf.bg.ac.rs/"
+    - image: "images/palatalogo.jpg"
+      url: "https://www.palata.rs/"
+    - image: "images/logomikroprinc.jfif"
+      url: "https://www.mikroprinc.com/"
 ---

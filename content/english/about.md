@@ -5,7 +5,7 @@ description: "O nama"
 draft: false
 ---
 
-<h1 style="text-align: center; color: #f5c133">Uvod</h1>
+<h1 style="text-align: center; color: #f5c133; text-decoration: underline">Uvod</h1>
 
 Proton je jedna od dve studentske organizacije na Elektrotehničkom fakultetu Univerziteta u Beogradu, sa misijom da promoviše i neguje ideju studentske samoorganizacije i solidarnosti.
 
@@ -13,7 +13,7 @@ Našu misiju nastojimo da ostvarimo kroz aktivno učešće u studentskim zakonod
 
 Naše postojanje nije dugo, a skoro čitavo vreme od osnivanja život na fakultetu bio je, blago rečeno, neobičan. Studentska organizacija Proton je nastala 2025. godine u jeku studentskih blokada fakulteta. Studentske blokade su umrežile i spojile veliki broj studenata, među kojima se rodila ideja o osnivanju nove organizacije na fakultetu sa ciljem boljeg zastupanja studenata i sprovođenja inovativnog programa.
 
-<h1 style="text-align: center; color: #f5c133">Misija i vizija</h1>
+<h1 style="text-align: center; color: #f5c133; text-decoration: underline">Misija i vizija</h1>
 
 Naši glavni ciljevi su zaštita studentskih prava i interesa, kao i stvaranje mogućnosti za njihov lični i profesionalni razvoj. Poseban akcenat stavlja se na:
 
@@ -26,7 +26,7 @@ Naši glavni ciljevi su zaštita studentskih prava i interesa, kao i stvaranje m
 
 Organizacija takođe radi na boljem pristupu informacijama za studente, podršci pri administrativnim zadacima na fakultetu, kao i na jačanju saradnje sa drugim studentskim i srodnim organizacijama, kako u zemlji tako i u inostranstvu.
 
-<h1 style="text-align: center; color: #f5c133">Koje su osnovne vrednosti Protona?</h1>
+<h1 style="text-align: center; color: #f5c133; text-decoration: underline">Koje su osnovne vrednosti Protona?</h1>
 
 <h2 style="text-align: center;">Jednakost iznad svega</h2>
 
@@ -49,14 +49,14 @@ Inovacija je suština savremenog života. Ona je glavna pokretačka snaga koja j
 Međutim, taj inovativni duh mora da se neguje. Ako se previše vremena troši na puko memorisanje činjenica bez ulaska u njihovu dublju suštinu, kreativnost umire, a ono što ostaje je duša lišena svega što joj je potrebno da zasvetli.
 Verujemo da je naša odgovornost da sprečimo takve scenarije. Naša organizacija ima za cilj saradnju sa inovacionim habovima i istraživačkim centrima, kako bi studenti mogli da dostignu svoj puni potencijal kroz razumevanje inovativnih procesa i pretvaranje svojih ideja u stvarnost.
 
-<h1 style="text-align: center; color: #f5c133">Upoznajte tim iza Protona</h2>
+<h1 style="text-align: center; color: #f5c133; text-decoration: underline">Upoznajte tim iza Protona</h2>
 
-<h2 style="text-align: center;">Upravni odbor</h2>
+<h2 style="text-align: center; color: #381651">Upravni odbor</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
 
 <div style="text-align: center; width: 220px;">
-  <img src="/images/team/despot.jpg" alt="Despot Maksimović" style="border-radius: 10%; width: 180px; height: 180px; border: solid #381651 4px; object-fit: cover;">
+  <img src="/images/team/despot.png" alt="Despot Maksimović" style="border-radius: 10%; width: 180px; height: 180px; border: solid #381651 4px; object-fit: cover;">
   <h3>Despot Maksimović</h3>
   <p><em>Predsednik Upravnog odbora</em></p>
 </div>

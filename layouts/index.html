@@ -168,7 +168,9 @@
     <h3 class="mb-4">{{ .title }}</h3>
     <div class="d-flex flex-wrap justify-content-center align-items-center gap-4">
       {{ range .logos }}
-      <img src="{{ . | relURL }}" alt="Sponsor logo" style="max-height: 100px; opacity: 0.85;">
+        <a href="{{ .url }}" target="_blank">
+          <img src="{{ .image }}" alt="Sponsor logo" style="max-height: 100px; opacity: 0.85;">
+        </a>
       {{ end }}
     </div>
   </div>
