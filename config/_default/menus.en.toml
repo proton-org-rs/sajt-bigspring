@@ -10,11 +10,6 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Projekati"
-url = "/projects"
-weight = 3
-
-[[main]]
 name = "Galerija"
 url = "/gallery"
 weight = 4
@@ -29,11 +24,6 @@ weight = 5
 name = "O nama"
 url = "/about"
 weight = 1
-
-[[footer_left]]
-name = "Projekti"
-url = "/projects"
-weight = 2
 
 [[footer_left]]
 name = "Galerija"

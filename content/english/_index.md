@@ -4,7 +4,7 @@ banner:
   title : "STUDENTSKA ORGANIZACIJA PROTON"
   #image : "images/Backjam.png"
   content : "Elektrotehnički fakultet u Beogradu"
-  #background: "images/Banner.jpg"
+  #background: "images/Backjam.jpg"
   #button:
     #enable : true
     #label : "Učlani se"
@@ -39,7 +39,7 @@ service:
     - title : "Naša misija"
       images:
       - "images/Megaphone.png"
-      content : "Studentska ogranizacija Proton Elektrotehničkog fakulteta u Beogradu osnovana je sa ciljem ..."
+      content : "Naša misija je da unapredimo studentski život na Elektrotehničkom fakultetu "
       button:
         enable : true
         label : "Još nešto o nama"
