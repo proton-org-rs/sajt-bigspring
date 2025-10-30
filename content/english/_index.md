@@ -39,7 +39,7 @@ service:
     - title : "Naša misija"
       images:
       - "images/Megaphone.png"
-      content : "Misija Protona je da pomgne svim studentkinjama i studentima da dosegnu svoj maksimalni potencijal, kroz organizovanje i učestvovanje u raznolikom programu, uz zaštitu njihovih prava i zastupanje njihovih interesa."
+      content : "Misija Protona je da pomogne svim studentkinjama i studentima da dosegnu svoj maksimalni potencijal, kroz organizovanje i učestvovanje u raznolikom programu, uz zaštitu njihovih prava i zastupanje njihovih interesa."
       button:
         enable : true
         label : "Još nešto o nama"
@@ -63,4 +63,13 @@ call_to_action:
     enable : true
     label : "Učlani se"
     link : "https://forms.gle/HeDJ43iGtGfoZwAx8"
+
+#################### Sponsors #########################
+sponsors:
+  enable: true
+  title: "Naši partneri"
+  logos:
+    - "images/etflogo.jfif"
+    - "images/palatalogo.jpg"
+    - "images/logomikroprinc.jfif"
 ---
