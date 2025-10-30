@@ -39,7 +39,7 @@ service:
     - title : "Naša misija"
       images:
       - "images/Megaphone.png"
-      content : "Studentska ogranizacija Proton Elektrotehničkog fakulteta u Beogradu osnovana je sa ciljem ..."
+      content : "Misija Protona je da pomgne svim studentkinjama i studentima da dosegnu svoj maksimalni potencijal, kroz organizovanje i učestvovanje u raznolikom programu, uz zaštitu njihovih prava i zastupanje njihovih interesa."
       button:
         enable : true
         label : "Još nešto o nama"
