@@ -34,3 +34,30 @@ img[src*="Megaphone.png"] {
   background-position: center;
   height: 100vh;
 }
+
+.contact-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.contact-text {
+  flex: 1 1 300px;
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+.contact-text p {
+  margin: 0 0 10px 0 !important;
+}
+
+.contact-map {
+  flex: 1 1 300px;
+  min-width: 300px;
+}
+
+.contact-map iframe {
+  display: block;
+}
+
