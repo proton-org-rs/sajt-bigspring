@@ -59,14 +59,12 @@ Verujemo da je naša odgovornost da sprečimo takve scenarije. Naša organizacij
   <img src="/images/team/despot.jpg" alt="Despot Maksimović" style="border-radius: 10%; width: 180px; height: 180px; border: solid #381651 4px; object-fit: cover;">
   <h3>Ime Prezime</h3>
   <p><em>Predsednik Upravnog odbora</em></p>
-  <p>Kratak portfolio: student četvrte godine na smeru Softversko inženjerstvo. Strastven u pogledu studentske politike i razvoja zajednice.</p>
 </div>
 
 <div style="text-align: center; width: 220px; color: #f5c133">
   <img src="/images/team/masa.png" alt="Ime Prezime" style="border-radius: 10%; width: 180px; height: 180px; border: solid #381651 4px; object-fit: cover;">
   <h3>Maša Nikolić</h3>
   <p><em>Potpredsednik Upravnog odbora</em></p>
-  <p>Kratak portfolio: fokusiran na koordinaciju projekata i jačanje saradnje među studentskim organizacijama.</p>
 </div>
 
 </div>
