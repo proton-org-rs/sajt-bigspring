@@ -119,9 +119,6 @@
 
 
 
-
-
-
 <!-- screenshot -->
 {{ with .Params.screenshot }}
 {{ if .enable }}
@@ -163,5 +160,20 @@
 {{ end }}
 {{ end }}
 <!-- /call to action -->
+
+{{ with .Params.sponsors }}
+{{ if .enable }}
+<section class="section bg-white py-5">
+  <div class="container text-center">
+    <h3 class="mb-4">{{ .title }}</h3>
+    <div class="d-flex flex-wrap justify-content-center align-items-center gap-4">
+      {{ range .logos }}
+      <img src="{{ . | relURL }}" alt="Sponsor logo" style="max-height: 100px; opacity: 0.85;">
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
 
 {{ end }}
