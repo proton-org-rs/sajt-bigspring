@@ -35,14 +35,14 @@
               {{ end }}
             </div>
             <div class="col-lg-3 col-sm-6">
-              <a class="d-block h5 mb-3" href="{{ site.BaseURL | absLangURL}}">
+              <div class="d-block h5 mb-3">
                 {{ partial "logo.html" }}
-              </a>
+              </div>
               <p class="mb-4">{{ site.Params.footer_content | markdownify }}</p>
               {{ with site.Params.social }}
               <ul class="list-inline social-icons">
                 {{ range . }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}" title="{{ .title }}"><i
+                <li class="list-inline-item"><a href="{{ .link | safeURL }}" title="{{ .title }}" target="_blank"><i
                       class="{{ .icon }}"></i></a></li>
                 {{ end }}
               </ul>

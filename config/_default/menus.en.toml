@@ -24,6 +24,11 @@ name = "Kontakt"
 url = "/contact"
 weight = 6
 
+[[main]]
+name = "Publikacije"
+url = "/publications"
+weight = 7
+
 # footer menu left
 [[footer_left]]
 name = "O nama"
@@ -44,3 +49,8 @@ weight = 4
 name = "Kontakt"
 url = "/contact"
 weight = 5
+
+[[footer_left]]
+name = "Publikacije"
+url = "/publications"
+weight = 6

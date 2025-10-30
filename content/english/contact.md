@@ -14,9 +14,10 @@ Kontaktirajte nas!
 
   <div class="contact-text">
   <ul>
-    <li><strong>E pošta:</strong> kontakt@proton.org.rs</li>
-    <li><strong>Adresa:</strong> Bulevar kralja Aleksandra 73, Beograd</li>
-    <li><strong>Instagram:</strong> @proton.etf</li>
+    <li><strong>E-pošta:</strong> <a href="mailto:kontakt@proton.org.rs">kontakt@proton.org.rs</a></li>
+    <li><strong>Adresa:</strong> <a href="https://www.google.com/maps?q=Bulevar+kralja+Aleksandra+73,+Beograd" target="_blank">Bulevar kralja Aleksandra 73, Beograd</a></li>
+    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/proton.etf" target="_blank">@proton.etf</a></li>
+  </ul>
   </div>
 
   <div class="contact-map">
