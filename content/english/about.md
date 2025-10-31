@@ -32,26 +32,18 @@ Našu misiju nastojimo da ostvarimo kroz aktivno učešće u studentskim zakonod
 
 <h1 style="text-align: center; color: #f5c133;">Osnovne vrednosti Protona</h1>
 
+
 <h2 style="text-align: center;">Lični razvoj</h2>
-<h2 style="text-align: center;">Inovativnost</h2>
-<h2 style="text-align: center;">Saradnja</h2>
-
-<h2 style="text-align: center;">Jednakost iznad svega</h2>
-
-Proton je organizacija zasnovana na ideji da su svi ljudi stvoreni jednaki. Svakom pojedincu mora se omogućiti da dostigne svoj puni potencijal bez obzira na rasu, etničku pripadnost, pol, verska ubeđenja, finansijski status, seksualnu orijentaciju ili bilo koji drugi faktor van njegove kontrole.
-Vera u ove vrednosti jedan je od stubova na kojima je organizacija osnovana, a njihovo poštovanje je zagarantovano našim statutom.
-
-<h2 style="text-align: center;">Osnaživanje studenata</h2>
 
 Proton su osnovali studenti - za studente. Najvažniji deo našeg rada je da obezbedimo da svi resursi koji su nam na raspolaganju budu dostupni svakom studentu koji želi da pređe minimum koji diplomiranje zahteva.
 Želimo da budemo organizacija kojoj svaki student sa idejom ili interesovanjem u oblasti kojom ne može sam da se bavi može da dođe i dobije neophodne alate da dostigne svoj puni potencijal - bez ikakvih uslova.
 
-<h2 style="text-align: center;">Negovanje saradnje</h2>
+<h2 style="text-align: center;">Saradnja</h2>
 
 Žalosti nas što moderni svet postaje sve više izolovan. Saradnički duh gotovo da je iščezao iz naših života, dok nas savremeni način života primorava da se stalno upoređujemo sa drugima.
 Proton želi da okonča takav način života. Želimo svet koji nije „igra nulte sume“ - svet u kojem svi ljudi mogu da napreduju bez potrebe da bilo ko bude iznad ili ispod drugoga. Verujemo da je prvi korak ka stvaranju takvog sveta stavljanje saradnje iznad konkurencije.
 
-<h2 style="text-align: center;">Traganje za inovativnim rešenjima</h2>
+<h2 style="text-align: center;">Inovativnost</h2>
 
 Inovacija je suština savremenog života. Ona je glavna pokretačka snaga koja je izvadila milijarde ljudi iz siromaštva, produžila i unapredila živote i obezbedila da deca žive bolje od svojih roditelja.
 Međutim, taj inovativni duh mora da se neguje. Ako se previše vremena troši na puko memorisanje činjenica bez ulaska u njihovu dublju suštinu, kreativnost umire, a ono što ostaje je duša lišena svega što joj je potrebno da zasvetli.
