@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/Proton_logo_mali.png"
 # logo
 logo = "images/Proton_logo_mali.png"
 # use `px` or `x` with logo_width, example: "100px".

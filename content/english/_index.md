@@ -69,10 +69,10 @@ sponsors:
   enable: true
   title: "Naši partneri"
   logos:
-    - image: "images/etflogo.jfif"
+    - image: "images/sponsors/etflogo.jfif"
       url: "https://www.etf.bg.ac.rs/"
-    - image: "images/palatalogo.jpg"
+    - image: "images/sponsors/palatalogo.jpg"
       url: "https://www.palata.rs/"
-    - image: "images/logomikroprinc.jfif"
+    - image: "images/sponsors/logomikroprinc.jfif"
       url: "https://www.mikroprinc.com/"
 ---

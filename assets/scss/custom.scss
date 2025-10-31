@@ -18,7 +18,7 @@
 }
 
 img[src*="Megaphone.png"] {
-  width: 400px;
+  width: 300px;
   height: auto;
 }
 
@@ -48,11 +48,29 @@ img[src*="Megaphone.png"] {
   width: 100%;
 }
 
+.contact-text p {
+  color: #000000;
+  font-size: 1.2rem;
+}
+
 .contact-map {
   flex: 1 1 300px;
-  width: 100%;
+  width: 60%;
 }
 
 .contact-map iframe {
   display: block;
+}
+
+.mission-block {
+  background: #E8E8E8; /* ili neka druga boja */
+  padding: 25px 30px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+.mission-title {
+  text-align: center;
+  color: #381651;
+  margin-bottom: 20;
 }

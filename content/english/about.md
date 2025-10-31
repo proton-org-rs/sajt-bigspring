@@ -5,18 +5,13 @@ description: "O nama"
 draft: false
 ---
 
-<h1 style="text-align: center; color: #f5c133; text-decoration: underline">Uvod</h1>
+Proton je jedna od dve studentske organizacije na Elektrotehničkom fakultetu Univerziteta u Beogradu. Nastala je 2025. godine tokom studentskih blokada, sa idejom o poboljšanju zastupanja studenata i uvođenjem inovativnog programa.
 
-Proton je jedna od dve studentske organizacije na Elektrotehničkom fakultetu Univerziteta u Beogradu, sa misijom da promoviše i neguje ideju studentske samoorganizacije i solidarnosti.
+Našu misiju nastojimo da ostvarimo kroz aktivno učešće u studentskim zakonodavnim i izvršnim telima, kao direktan način doprinosa unapređenju fakulteta. Pored toga, kroz organizaciju raznovrsnih događaja koji prate redovan nastavni plan i program, ali i idu izvan njega, pomažući studentima da steknu nove veštine i napreduju profesionalno i lično.
 
-Našu misiju nastojimo da ostvarimo kroz aktivno učešće u studentskim zakonodavnim i izvršnim telima, kao direktan način doprinosa unapređenju fakulteta, kao i kroz organizaciju različitih događaja van redovnog nastavnog plana i programa, pomažući studentima da steknu nove vredne veštine i napreduju i profesionalno i lično.
+<div class="mission-block">
 
-Naše postojanje nije dugo, a skoro čitavo vreme od osnivanja život na fakultetu bio je, blago rečeno, neobičan. Studentska organizacija Proton je nastala 2025. godine u jeku studentskih blokada fakulteta. Studentske blokade su umrežile i spojile veliki broj studenata, među kojima se rodila ideja o osnivanju nove organizacije na fakultetu sa ciljem boljeg zastupanja studenata i sprovođenja inovativnog programa.
-
-<h1 style="text-align: center; color: #f5c133; text-decoration: underline">Misija i vizija</h1>
-
-Naši glavni ciljevi su zaštita studentskih prava i interesa, kao i stvaranje mogućnosti za njihov lični i profesionalni razvoj. Poseban akcenat stavlja se na:
-
+<h1 class="mission-title">Ciljevi</h1>
 
 - unapređenje nastave i efikasnosti obrazovnih programa,
 - podršku studentima kroz edukativne događaje, takmičenja i projekte,
@@ -24,7 +19,8 @@ Naši glavni ciljevi su zaštita studentskih prava i interesa, kao i stvaranje m
 - podizanje životnog standarda i zapošljivosti studenata,
 - jačanje ugleda i društvenog položaja studenata u široj zajednici.
 
-Organizacija takođe radi na boljem pristupu informacijama za studente, podršci pri administrativnim zadacima na fakultetu, kao i na jačanju saradnje sa drugim studentskim i srodnim organizacijama, kako u zemlji tako i u inostranstvu.
+Organizacija takođe radi na boljem pristupu informacijama za studente, podršci pri administrativnim zadacima na fakultetu, kao i na jačanju saradnje sa drugim studentskim i srodnim organizacijama.
+</div>
 
 <h1 style="text-align: center; color: #f5c133; text-decoration: underline">Koje su osnovne vrednosti Protona?</h1>
 
@@ -49,7 +45,7 @@ Inovacija je suština savremenog života. Ona je glavna pokretačka snaga koja j
 Međutim, taj inovativni duh mora da se neguje. Ako se previše vremena troši na puko memorisanje činjenica bez ulaska u njihovu dublju suštinu, kreativnost umire, a ono što ostaje je duša lišena svega što joj je potrebno da zasvetli.
 Verujemo da je naša odgovornost da sprečimo takve scenarije. Naša organizacija ima za cilj saradnju sa inovacionim habovima i istraživačkim centrima, kako bi studenti mogli da dostignu svoj puni potencijal kroz razumevanje inovativnih procesa i pretvaranje svojih ideja u stvarnost.
 
-<h1 style="text-align: center; color: #f5c133; text-decoration: underline">Upoznajte tim iza Protona</h2>
+<h1 style="text-align: center; color: #f5c133; text-decoration: underline">Tim iza Protona</h1>
 
 <h2 style="text-align: center; color: #381651">Upravni odbor</h2>
 
