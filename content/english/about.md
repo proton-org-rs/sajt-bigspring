@@ -5,24 +5,36 @@ description: "O nama"
 draft: false
 ---
 
-Proton je jedna od dve studentske organizacije na Elektrotehničkom fakultetu Univerziteta u Beogradu. Nastala je 2025. godine tokom studentskih blokada, sa idejom o poboljšanju zastupanja studenata i uvođenjem inovativnog programa.
+Proton je najmlađa studentska organizacija na Elektrotehničkom fakultetu Univerziteta u Beogradu. Nastala je tokom studentskih blokada 2025. godine, sa idejom o poboljšanju zastupanja studenata i uvođenjem inovativnog programa u kojem članovi mogu da učestvuju.
 
 Našu misiju nastojimo da ostvarimo kroz aktivno učešće u studentskim zakonodavnim i izvršnim telima, kao direktan način doprinosa unapređenju fakulteta. Pored toga, kroz organizaciju raznovrsnih događaja koji prate redovan nastavni plan i program, ali i idu izvan njega, pomažući studentima da steknu nove veštine i napreduju profesionalno i lično.
 
-<div class="mission-block">
+<div class="mission-block" style="display: flex; align-items: flex-start; gap: 20px;">
 
-<h1 class="mission-title">Ciljevi</h1>
+  <!-- Tekst -->
+  <div class="mission-text" style="flex: 1;">
+    <h1 class="mission-title" style="margin-bottom: 30px; font-size: 2rem;">Ciljevi</h1>
+    <ul style="font-size: 1.2rem; line-height: 1.2;">
+      <li>bolji pristup informacijama značajnim za studiranje</li>
+      <li>podsticanje aktivnog učešća u predstavničkim telima</li>
+      <li>podizanje životnog standarda i zapošljivosti studenata</li>
+      <li>jačanje saradnje sa drugim studentskim i srodnim organizacijama</li>
+      <li>podrška kroz edukativne događaje, takmičenja i projekte</li>
+    </ul>
+  </div>
 
-- unapređenje nastave i efikasnosti obrazovnih programa,
-- podršku studentima kroz edukativne događaje, takmičenja i projekte,
-- podsticanje aktivnog učešća studenata u procesima odlučivanja u predstavničkim telima,
-- podizanje životnog standarda i zapošljivosti studenata,
-- jačanje ugleda i društvenog položaja studenata u široj zajednici.
+  <!-- Slika pored teksta -->
+  <div class="mission-image" style="flex: 0 0 250px;">
+    <img src="/images/Sun.png" alt="Ciljevi" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
 
-Organizacija takođe radi na boljem pristupu informacijama za studente, podršci pri administrativnim zadacima na fakultetu, kao i na jačanju saradnje sa drugim studentskim i srodnim organizacijama.
 </div>
 
-<h1 style="text-align: center; color: #f5c133; text-decoration: underline">Koje su osnovne vrednosti Protona?</h1>
+<h1 style="text-align: center; color: #f5c133;">Osnovne vrednosti Protona</h1>
+
+<h2 style="text-align: center;">Lični razvoj</h2>
+<h2 style="text-align: center;">Inovativnost</h2>
+<h2 style="text-align: center;">Saradnja</h2>
 
 <h2 style="text-align: center;">Jednakost iznad svega</h2>
 

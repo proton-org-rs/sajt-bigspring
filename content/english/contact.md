@@ -12,7 +12,7 @@ draft: false
   <div class="contact-row" style="display: flex; align-items: center; gap: 15px;">
 
   <div class="contact-text" style="flex: 1;">
-      <p><strong>Imate pitanja ili predloge? Kontaktirajte nas!</strong></p>
+      <p style="color: #000000;"><strong>Imate pitanja ili predloge? Kontaktirajte nas!</strong></p>
       <ul style="margin: 0; padding-left: 18px;">
         <li><strong>E-pošta:</strong> <a href="mailto:kontakt@proton.org.rs">kontakt@proton.org.rs</a></li>
         <li><strong>Adresa:</strong> <a href="https://www.google.com/maps?q=Bulevar+kralja+Aleksandra+73,+Beograd" target="_blank">Bulevar kralja Aleksandra 73, Beograd</a></li>
