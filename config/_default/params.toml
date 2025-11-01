@@ -22,12 +22,12 @@ demo_form_action = "#!" # demo form works with [https://airform.io/] or [https:/
 # career form action
 career_form_action = "#"
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-3900HTHGGK" # example: G-XXXXXXXXXX
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script = ""
 # copyright
-theme_copyright = false
-copyright = "Copyright by Proton"
+theme_copyright = true # ovo mora da ostane po licenci teme
+copyright = "© 2025 Proton"
 
 # preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format. example - "images/preloader.gi
 [navigation_button]
 enable = true
 label = "Učlani se"
-link = "https://forms.gle/HeDJ43iGtGfoZwAx8"
+link = "https://l.proton.org.rs/uclani-se"
 
 
 # crisp chat
@@ -51,10 +51,10 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Hugo", "Themefisher", "Gethugothemes"]
-description = "This is meta description"
-author = "Gethugothemes"
-image = "images/logo.png"                           # this image will be used as fallback if a page has no image of its own
+keywords = ["Studentska organizacija Proton", "ETF Beograd", "studentska organizacija", "razvoj studenata", "mentorske aktivnosti", "projekti studenata", "takmičenja", "ekskurzije studenata", "život na fakultetu", "učlani se Proton"]
+description = "Studentska organizacija Proton Elektrotehničkog fakulteta u Beogradu pomaže studentima da ostvare svoj potencijal kroz predavanja, mentorstva, projekte, putovanja i unapređenje studentskog života."
+author = "Sektor za tehnološki razvoj, Studentska organizacija Proton"
+image = "images/Proton_logo_mali.png"
 
 # matomo tracking: see https://matomo.org/
 # matomo tracking module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/matomo-analytics
@@ -93,7 +93,7 @@ mastodon = "" # Your verification code
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"

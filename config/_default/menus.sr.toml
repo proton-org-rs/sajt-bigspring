@@ -1,16 +1,16 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Početna"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About us"
+name = "O nama"
 url = "/about"
 weight = 2
 
 [[main]]
-name = "Gallery"
+name = "Galerija"
 url = "/gallery"
 weight = 4
 
@@ -20,23 +20,23 @@ url = "/faq/"
 weight = 5
 
 [[main]]
-name = "Contact"
+name = "Kontakt"
 url = "/contact"
 weight = 6
 
 [[main]]
-name = "Publications"
+name = "Publikacije"
 url = "/publications"
 weight = 7
 
 # footer menu left
 [[footer_left]]
-name = "About us"
+name = "O nama"
 url = "/about"
 weight = 1
 
 [[footer_left]]
-name = "Gallery"
+name = "Galerija"
 url = "/gallery"
 weight = 3
 
@@ -46,11 +46,11 @@ url = "/faq/"
 weight = 4
 
 [[footer_left]]
-name = "Contact"
+name = "Kontakt"
 url = "/contact"
 weight = 5
 
 [[footer_left]]
-name = "Publications"
+name = "Publikacije"
 url = "/publications"
 weight = 6

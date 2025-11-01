@@ -1,0 +1,22 @@
+{{ $src := .Get "src" }}
+{{ $class := .Get "class" | default "" }}
+{{ $alt := .Get "alt" | default "Image" }}
+{{ $width := .Get "width" | default "800" }}
+{{ $height := .Get "height" | default "0" }}
+
+{{ $img := resources.Get $src }}
+{{ $resized := $img }}  <!-- define variable outside blocks -->
+
+{{ if eq $height "0" }}
+    {{ $resized = $img.Resize (printf "%sx" $width) }}
+{{ else }}
+    {{ $resized = $img.Fit (printf "%sx%s" $width $height) }}
+{{ end }}
+
+<img 
+    src="{{ $resized.RelPermalink }}" 
+    alt="{{ $alt }}" 
+    width="{{ $resized.Width }}" 
+    height="{{ $resized.Height }}" 
+    loading="lazy"
+    class="{{ $class }}">

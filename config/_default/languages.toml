@@ -1,10 +1,10 @@
-################################### English language #####################################
-[en]
-languageName = "EN"
-languageCode = "en-US"
-contentDir = "content/english"
+################################### Serbian language #####################################
+[sr]
+contentDir = "content/lat"
+languageName = "Serbian (Latin)"
+languageCode = "sr-Latn"
 weight = 1
-[en.params]
+[sr.params]
 ########### footer content ##########
 footer_menu_left = "Organizacija"
 footer_menu_middle = ""
@@ -12,16 +12,16 @@ footer_menu_right = ""
 footer_content = "© 2025 Studentska organizacija Proton. Sva prava zadržana."
 
 
-################################### Deutsch language #####################################
-[de]
-languageName = "DE"
-languageCode = "de-DE"
-contentDir = "content/deutsch"
+################################### English language #####################################
+[en]
+languageName = "EN"
+languageCode = "en-US"
+contentDir = "content/english"
 weight = 2
-[de.params]
+[en.params]
 ########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
+footer_menu_left = "Organization"
+footer_menu_middle = ""
+footer_menu_right = ""
+footer_content = "© 2025 Student organization Proton. All rights reserved."
 
