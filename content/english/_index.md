@@ -72,7 +72,7 @@ sponsors:
     - image: "images/sponsors/etflogo.jfif"
       url: "https://www.etf.bg.ac.rs/"
     - image: "images/sponsors/palatalogo.jpg"
-      url: "https://www.palata.rs/"
+      url: "https://palatanauke.rs/"
     - image: "images/sponsors/logomikroprinc.jfif"
       url: "https://www.mikroprinc.com/"
 ---
