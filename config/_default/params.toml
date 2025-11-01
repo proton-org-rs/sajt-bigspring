@@ -27,7 +27,7 @@ google_tag_manager = "G-3900HTHGGK" # example: G-XXXXXXXXXX
 custom_script = ""
 # copyright
 theme_copyright = true # ovo mora da ostane po licenci teme
-copyright = "© 2025 Proton"
+# copyright = "© 2025 Proton"
 
 # preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader

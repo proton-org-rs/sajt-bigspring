@@ -1,15 +1,16 @@
 ################################### Serbian language #####################################
 [sr]
-contentDir = "content/lat"
 languageName = "Serbian (Latin)"
 languageCode = "sr-Latn"
+contentDir = "content/lat"
 weight = 1
 [sr.params]
 ########### footer content ##########
 footer_menu_left = "Organizacija"
 footer_menu_middle = ""
 footer_menu_right = ""
-footer_content = "© 2025 Studentska organizacija Proton. Sva prava zadržana."
+copyright = "© 2025 Studentska organizacija Proton. Sva prava zadržana."
+theme_by = "Tema preuzeta sa"
 
 
 ################################### English language #####################################
@@ -23,5 +24,6 @@ weight = 2
 footer_menu_left = "Organization"
 footer_menu_middle = ""
 footer_menu_right = ""
-footer_content = "© 2025 Student organization Proton. All rights reserved."
+copyright = "© 2025 Student organization Proton. All rights reserved."
+theme_by = "Theme by"
 
