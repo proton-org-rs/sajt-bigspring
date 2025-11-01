@@ -3,14 +3,15 @@
 {{ $alt := .Get "alt" | default "Image" }}
 {{ $width := .Get "width" | default "800" }}
 {{ $height := .Get "height" | default "0" }}
+{{ $format := .Get "format" | default "webp" }}
 
 {{ $img := resources.Get $src }}
 {{ $resized := $img }}  <!-- define variable outside blocks -->
 
 {{ if eq $height "0" }}
-    {{ $resized = $img.Resize (printf "%sx" $width) }}
+    {{ $resized = $img.Resize (printf "%sx %s" $width $format) }}
 {{ else }}
-    {{ $resized = $img.Fit (printf "%sx%s" $width $height) }}
+    {{ $resized = $img.Fit (printf "%sx%s %s" $width $height $format) }}
 {{ end }}
 
 <img 
