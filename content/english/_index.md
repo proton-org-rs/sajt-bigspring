@@ -62,7 +62,7 @@ call_to_action:
   button:
     enable : true
     label : "Učlani se"
-    link : "https://forms.gle/HeDJ43iGtGfoZwAx8"
+    link : "https://l.proton.org.rs/uclani-se"
 
 #################### Sponsors #########################
 sponsors:
